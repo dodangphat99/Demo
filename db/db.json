@@ -1,0 +1,14 @@
+{
+    "userList":[
+        {
+            "id":1,
+            "email": "do dang phat",
+            "password":"Aello121212@vc"
+        },
+        {
+            "id":2,
+            "email": "nguyen qunag huy",
+            "password":"Bvnbnbv2@cv"
+        }
+    ]
+}
